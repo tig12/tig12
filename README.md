@@ -1,4 +1,4 @@
-[https://github.com/tig12](https://github.com/tig12)  
+https://github.com/tig12  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Astrology and statistics  
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [g5](https://github.com/tig12/g5)  
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [g5-aux](https://github.com/tig12/g5-aux)  
@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [tigeph](https://github.com/tig12/tigeph)  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Computing  
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [cnam-2isa](https://github.com/tig12/cnam-2isa)  
-&nbsp;&nbsp;&nbsp;&nbsp;├── dev  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Development  
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tigdraw](https://github.com/tig12/tigdraw)  
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [tiglib](https://github.com/tig12/tiglib)  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Geography  
