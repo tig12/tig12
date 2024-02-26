@@ -1,4 +1,4 @@
-My name is Thierry Graff, I'm a programmer from France.  
+I'm a programmer from France.  
 By order of usage : php, javascript, go, bash, java, python.  
 I'd love to learn haskell, rust and css.  
 
@@ -30,5 +30,6 @@ https://github.com/tig12
 &nbsp;&nbsp;&nbsp;&nbsp;└── Maths  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── [milewski-youtube-notes](https://github.com/tig12/Maths/milewski-youtube-notes)  
 
-@github : why don't you just allow secured html in README instead of imposing markdown ? Markdown is maybe useful for some people or in some use cases, but I personnaly experiment it as a parasit syntax with very poor expression power, painful to write and test, and worst, not even standard with the github extension. So please could you add an `<html>` tag and permit your users to code in html and css and render it completely unmodified if it passes security checks ? Markdown is a loss of time in my case, so give us the choice between markdown or good plain old html / css.  
+@github : why don't you just allow secured html in README instead of imposing markdown ? Markdown is maybe useful for some people or in some use cases. But in my case, il limits the quality of the README I could generate. I personnaly experiment markdown as a syntax with very poor expression power, painful to write and test, and worst, not even standard with the github extension. So please could you add an `<html>` tag and permit your users to code in html and css and render it completely unmodified if it passes security checks ?  
+Please give your users the choice between markdown or good plain old html / css.  
 Thank you.
