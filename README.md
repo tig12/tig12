@@ -1,6 +1,5 @@
 I'm a programmer from France.  
 By order of usage : php, javascript, go, bash, java, python.  
-I'd love to learn haskell, rust and css.  
 
 I use github to publish code written on my spare time.  
 Most of my professional code is proprietary, except one, in GPL: [Les bois du Larzac](https://github.com/bdlarzac/chantiers)
