@@ -22,8 +22,10 @@ Most of my professional code is proprietary, except one, in GPL: [Les bois du La
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tigdraw](https://github.com/tig12/tigdraw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Routines for drawing - PHP  
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tiglib](https://github.com/tig12/tiglib)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generic routines - PHP, Go, Javascript  
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [tigsite](https://github.com/tig12/tigsite)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microscopic framework to manage a static site - PHP  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Do it yourself  
+&nbsp;&nbsp;&nbsp;&nbsp;│   └── [plans-yourte](https://github.com/tig12/plans-yourte)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generate plans to build a yurt - PHP, HTML  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Geography  
-&nbsp;&nbsp;&nbsp;&nbsp;│   └── [geonames2postgres](https://github.com/tig12/geonames2postgres)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transfers geonames.org data in a postgresql database - Python  
+&nbsp;&nbsp;&nbsp;&nbsp;│   └── [geonames2postgres](https://github.com/tig12/geonames2postgres)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transfer geonames.org data in a postgresql database - Python  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Harvest  
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [mactutor-by-links](https://github.com/tig12/mactutor-by-links)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build a CSV of ranked mathematicians from MacTutor web site - PHP  
 &nbsp;&nbsp;&nbsp;&nbsp;└── Maths  
