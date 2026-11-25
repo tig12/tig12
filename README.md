@@ -17,11 +17,11 @@ Most of my professional code is proprietary, except one, in GPL: [Les bois du La
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [miroir-secondaire](https://github.com/tig12/miroir-secondaire)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compute the secondary miror of a Newton telescope - Java  
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [tigeph](https://github.com/tig12/tigeph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Low precision ephemeris computation - PHP  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Computing  
-&nbsp;&nbsp;&nbsp;&nbsp;│   └── [cnam-2isa](https://github.com/tig12/cnam-2isa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computing science courses (French) - HTML, Java, Javascript  
-&nbsp;&nbsp;&nbsp;&nbsp;├── Development  
-&nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tigdraw](https://github.com/tig12/tigdraw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Routines for drawing - PHP  
+&nbsp;&nbsp;&nbsp;&nbsp;│   ├── [cnam-2isa](https://github.com/tig12/cnam-2isa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computing science courses (French) - HTML, Java, Javascript  
 &nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tiglib](https://github.com/tig12/tiglib)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generic routines - PHP, Go, Javascript  
-&nbsp;&nbsp;&nbsp;&nbsp;│   └── [tigsite](https://github.com/tig12/tigsite)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microscopic framework to manage a static site - PHP  
+&nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tigsite](https://github.com/tig12/tigsite)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microscopic framework to manage a static site - PHP  
+&nbsp;&nbsp;&nbsp;&nbsp;│   ├── [tigdoc](https://github.com/tig12/tigdoc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal cheatsheets and doc  
+&nbsp;&nbsp;&nbsp;&nbsp;│   └── [tigdraw](https://github.com/tig12/tigdraw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Routines for drawing - PHP  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Do it yourself  
 &nbsp;&nbsp;&nbsp;&nbsp;│   └── [plans-yourte](https://github.com/tig12/plans-yourte)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generate plans to build a yurt - PHP, HTML  
 &nbsp;&nbsp;&nbsp;&nbsp;├── Geography  
